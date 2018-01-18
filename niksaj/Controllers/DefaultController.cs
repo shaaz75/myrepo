@@ -9,9 +9,9 @@ namespace niksaj.Controllers
     public class DefaultController : Controller
     {
         // GET: Default
-        public ActionResult Index()
+        public string Index()
         {
-            return View();
+            return "";
         }
     }
 }
