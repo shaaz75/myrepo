@@ -11,7 +11,7 @@ namespace niksaj.Controllers
         // GET: Default
         public ActionResult Index()
         {
-
+            string strName = "S";
             return View();
         }
 
