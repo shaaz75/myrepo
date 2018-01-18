@@ -13,5 +13,10 @@ namespace niksaj.Controllers
         {
             return View();
         }
+
+        public ActionResult NewAction()
+        {
+            return View();
+        }
     }
 }
