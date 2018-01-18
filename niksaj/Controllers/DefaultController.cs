@@ -14,10 +14,5 @@ namespace niksaj.Controllers
             string strName = "S";
             return View();
         }
-
-        public ActionResult NewAction()
-        {
-            return View();
-        }
     }
 }
