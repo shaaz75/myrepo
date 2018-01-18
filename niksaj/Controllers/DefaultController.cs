@@ -12,6 +12,7 @@ namespace niksaj.Controllers
         public ActionResult Index()
         {
             string strName = "S";
+            string strName = "N";
             return View();
         }
     }
